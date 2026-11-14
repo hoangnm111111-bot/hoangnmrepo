@@ -1,0 +1,1 @@
+{"hooks":{"SessionStart":[{"matcher":"startup|clear|compact","hooks":[{"type":"command","command":"CLAUDE_PLUGIN_ROOT=\"$CLAUDE_PROJECT_DIR/.claude/superpowers\" bash \"$CLAUDE_PROJECT_DIR/.claude/superpowers/hooks/session-start\""}]}]}}
