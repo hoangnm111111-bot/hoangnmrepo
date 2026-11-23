@@ -1,0 +1,200 @@
+[
+ {
+  "niche": "true-crime",
+  "channels": 9,
+  "med_subs": 549000,
+  "med_views": 66000,
+  "small_ch": 4,
+  "small_ch_20k": 1,
+  "views_per_sub": 0.769,
+  "outliers_3x": 17,
+  "videos": 125
+ },
+ {
+  "niche": "diy-home",
+  "channels": 9,
+  "med_subs": 596000,
+  "med_views": 211000,
+  "small_ch": 2,
+  "small_ch_20k": 2,
+  "views_per_sub": 0.553,
+  "outliers_3x": 25,
+  "videos": 134
+ },
+ {
+  "niche": "business-story",
+  "channels": 8,
+  "med_subs": 86050,
+  "med_views": 46500,
+  "small_ch": 4,
+  "small_ch_20k": 2,
+  "views_per_sub": 0.413,
+  "outliers_3x": 20,
+  "videos": 116
+ },
+ {
+  "niche": "homestead",
+  "channels": 9,
+  "med_subs": 201000,
+  "med_views": 72000,
+  "small_ch": 2,
+  "small_ch_20k": 1,
+  "views_per_sub": 0.412,
+  "outliers_3x": 12,
+  "videos": 131
+ },
+ {
+  "niche": "cars",
+  "channels": 9,
+  "med_subs": 26700,
+  "med_views": 1600,
+  "small_ch": 6,
+  "small_ch_20k": 0,
+  "views_per_sub": 0.365,
+  "outliers_3x": 24,
+  "videos": 117
+ },
+ {
+  "niche": "woodworking",
+  "channels": 9,
+  "med_subs": 243000,
+  "med_views": 37000,
+  "small_ch": 2,
+  "small_ch_20k": 1,
+  "views_per_sub": 0.336,
+  "outliers_3x": 19,
+  "videos": 131
+ },
+ {
+  "niche": "mystery",
+  "channels": 9,
+  "med_subs": 396000,
+  "med_views": 103000,
+  "small_ch": 3,
+  "small_ch_20k": 3,
+  "views_per_sub": 0.26,
+  "outliers_3x": 18,
+  "videos": 134
+ },
+ {
+  "niche": "budget-cooking",
+  "channels": 9,
+  "med_subs": 221000,
+  "med_views": 45000,
+  "small_ch": 4,
+  "small_ch_20k": 0,
+  "views_per_sub": 0.204,
+  "outliers_3x": 10,
+  "videos": 132
+ },
+ {
+  "niche": "retro-gaming",
+  "channels": 9,
+  "med_subs": 74300,
+  "med_views": 15000,
+  "small_ch": 6,
+  "small_ch_20k": 1,
+  "views_per_sub": 0.188,
+  "outliers_3x": 21,
+  "videos": 131
+ },
+ {
+  "niche": "fitness-40",
+  "channels": 9,
+  "med_subs": 105000,
+  "med_views": 21000,
+  "small_ch": 4,
+  "small_ch_20k": 1,
+  "views_per_sub": 0.167,
+  "outliers_3x": 12,
+  "videos": 130
+ },
+ {
+  "niche": "ai-tools",
+  "channels": 9,
+  "med_subs": 180000,
+  "med_views": 35000,
+  "small_ch": 2,
+  "small_ch_20k": 2,
+  "views_per_sub": 0.141,
+  "outliers_3x": 17,
+  "videos": 134
+ },
+ {
+  "niche": "space",
+  "channels": 9,
+  "med_subs": 70300,
+  "med_views": 50000,
+  "small_ch": 5,
+  "small_ch_20k": 2,
+  "views_per_sub": 0.135,
+  "outliers_3x": 17,
+  "videos": 135
+ },
+ {
+  "niche": "tech-budget",
+  "channels": 9,
+  "med_subs": 324000,
+  "med_views": 95000,
+  "small_ch": 2,
+  "small_ch_20k": 0,
+  "views_per_sub": 0.127,
+  "outliers_3x": 18,
+  "videos": 133
+ },
+ {
+  "niche": "finance",
+  "channels": 9,
+  "med_subs": 105000,
+  "med_views": 13500,
+  "small_ch": 2,
+  "small_ch_20k": 1,
+  "views_per_sub": 0.12,
+  "outliers_3x": 16,
+  "videos": 134
+ },
+ {
+  "niche": "geography",
+  "channels": 9,
+  "med_subs": 358000,
+  "med_views": 19000,
+  "small_ch": 2,
+  "small_ch_20k": 0,
+  "views_per_sub": 0.072,
+  "outliers_3x": 23,
+  "videos": 133
+ },
+ {
+  "niche": "side-hustle",
+  "channels": 9,
+  "med_subs": 193000,
+  "med_views": 17000,
+  "small_ch": 3,
+  "small_ch_20k": 0,
+  "views_per_sub": 0.064,
+  "outliers_3x": 23,
+  "videos": 134
+ },
+ {
+  "niche": "psychology",
+  "channels": 9,
+  "med_subs": 140000,
+  "med_views": 6100,
+  "small_ch": 4,
+  "small_ch_20k": 0,
+  "views_per_sub": 0.059,
+  "outliers_3x": 15,
+  "videos": 134
+ },
+ {
+  "niche": "dogs",
+  "channels": 9,
+  "med_subs": 1240000,
+  "med_views": 34500,
+  "small_ch": 1,
+  "small_ch_20k": 0,
+  "views_per_sub": 0.024,
+  "outliers_3x": 13,
+  "videos": 132
+ }
+]

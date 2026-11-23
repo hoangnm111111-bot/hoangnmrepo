@@ -1,0 +1,79 @@
+[
+ {
+  "niche": "space-explained",
+  "channels": 9,
+  "med_subs": 2330,
+  "med_views": 12000,
+  "small_ch": 7,
+  "small_ch_20k": 2,
+  "views_per_sub": 2.281,
+  "outliers_3x": 22,
+  "videos": 105
+ },
+ {
+  "niche": "us-business",
+  "channels": 8,
+  "med_subs": 4,
+  "med_views": 15,
+  "small_ch": 6,
+  "small_ch_20k": 0,
+  "views_per_sub": 2.25,
+  "outliers_3x": 14,
+  "videos": 94
+ },
+ {
+  "niche": "geo-explained",
+  "channels": 8,
+  "med_subs": 38,
+  "med_views": 54,
+  "small_ch": 7,
+  "small_ch_20k": 0,
+  "views_per_sub": 1.308,
+  "outliers_3x": 19,
+  "videos": 101
+ },
+ {
+  "niche": "iceberg",
+  "channels": 8,
+  "med_subs": 138000,
+  "med_views": 82000,
+  "small_ch": 3,
+  "small_ch_20k": 3,
+  "views_per_sub": 0.767,
+  "outliers_3x": 12,
+  "videos": 113
+ },
+ {
+  "niche": "mystery-explained",
+  "channels": 9,
+  "med_subs": 100000,
+  "med_views": 188000,
+  "small_ch": 4,
+  "small_ch_20k": 3,
+  "views_per_sub": 0.75,
+  "outliers_3x": 25,
+  "videos": 128
+ },
+ {
+  "niche": "history-explained",
+  "channels": 9,
+  "med_subs": 20200,
+  "med_views": 901,
+  "small_ch": 7,
+  "small_ch_20k": 0,
+  "views_per_sub": 0.419,
+  "outliers_3x": 16,
+  "videos": 116
+ },
+ {
+  "niche": "space-sleep",
+  "channels": 8,
+  "med_subs": 81650,
+  "med_views": 27000,
+  "small_ch": 5,
+  "small_ch_20k": 3,
+  "views_per_sub": 0.208,
+  "outliers_3x": 23,
+  "videos": 120
+ }
+]
